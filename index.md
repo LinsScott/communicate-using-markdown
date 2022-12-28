@@ -10,3 +10,9 @@
 ```SQL
 SELECT * From Table
 ```
+
+
+- [X] This list is required.
+- [X] This item is complete.
+- [ ] This item is not complete.
+- [ ] This item isn't complete either.
